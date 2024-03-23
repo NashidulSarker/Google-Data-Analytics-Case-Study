@@ -43,14 +43,19 @@ sleep monitoring. It includes information can be used to explore users’ habits
 library(tidyverse)
 ```
 </br>
+
 **Importing csv files and creating data sets**
+
 </br>
+
 ```{r}
 daily_activity <- read.csv("C:\\Users\\1iCE\\Desktop\\New folder (2)\\daily_data\\dailyActivity_merged.csv")
 daily_weight <- read.csv("C:\\Users\\1iCE\\Desktop\\New folder (2)\\daily_data\\weightLogInfo_merged.csv")
 daily_sleep <- read.csv("C:\\Users\\1iCE\\Desktop\\New folder (2)\\daily_data\\sleepDay_merged.csv")
 ```
+
 </br>
+
 
 **Showing first few data on the data sets**
 </br>
