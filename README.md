@@ -1,10 +1,4 @@
----
-title: "Google Data Analytics Case Study"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
----
+# Google Data Analytics Case Study
 
 
 
