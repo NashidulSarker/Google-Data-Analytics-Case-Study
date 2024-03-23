@@ -181,7 +181,8 @@ ggplot(data=user_calories_burned_sleep_type) +
   labs(title = "Peoples Sleep Type Based On How Much Calories They Burned", x="Calories Burned", y="Number Of People", fill="Sleep Type")+
   scale_fill_brewer(palette="Reds")
 ```
-![Alt text](relative/path/to/1.png)
+![1](https://github.com/NashidulSarker/Google-Data-Analytics-Case-Study/assets/105308659/51a13da4-eb1e-42cc-83ad-c70da4a334b3)
+
 
 </br>
 
@@ -196,6 +197,7 @@ ggplot(data=user_distance_sleep_type) +
   labs(title = "Peoples Sleep Type Based On How Much Distance They Covered", x="Distance Corved", y="Number Of People", fill="Sleep Type")+
   scale_fill_brewer(palette="Reds")
 ```
+![2](https://github.com/NashidulSarker/Google-Data-Analytics-Case-Study/assets/105308659/daf93c26-dea2-49f2-b425-5e8ad6b9d9df)
 
 </br>
 
@@ -217,6 +219,10 @@ ggplot(data=activity_weight) +
   labs(title = "Total distance covered by people based how much they weight", x="Total Distance")
 ```
 
+![3](https://github.com/NashidulSarker/Google-Data-Analytics-Case-Study/assets/105308659/886e6805-1779-43ad-87a6-e4657517e7c2)
+![4](https://github.com/NashidulSarker/Google-Data-Analytics-Case-Study/assets/105308659/c7f9d8ca-6098-4b7a-9ee0-6cafa030a01c)
+
+
 </br>
 
 **Finding 4**
@@ -234,6 +240,10 @@ ggplot(data=activity_sleep) +
   geom_point(mapping = aes(x=TotalMinutesAsleep, y=TotalDistance, color=TotalDistance))+
   labs(title = "Relation between distance covered by people and minutes slept",x="Total Minutes Asleep", y='Total Distance')
 ```
+![5](https://github.com/NashidulSarker/Google-Data-Analytics-Case-Study/assets/105308659/ebb1ff03-bbe4-403f-9eec-6151be1442d2)
+![6](https://github.com/NashidulSarker/Google-Data-Analytics-Case-Study/assets/105308659/196abdf8-a0a1-42cf-b80a-1973411943fc)
+
+
 
 </br>
 
