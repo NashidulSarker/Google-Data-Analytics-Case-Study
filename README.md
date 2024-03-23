@@ -15,6 +15,7 @@ Analyzing non-Bellabeat smart device data to gain insight into how consumers
 are using their non-Bellabeat smart devices.
 </br>
 </br>
+
 **Goals**
 
 + Find trends among the people using their non-Bellabeat smart devices
