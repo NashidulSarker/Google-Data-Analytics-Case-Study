@@ -181,6 +181,7 @@ ggplot(data=user_calories_burned_sleep_type) +
   labs(title = "Peoples Sleep Type Based On How Much Calories They Burned", x="Calories Burned", y="Number Of People", fill="Sleep Type")+
   scale_fill_brewer(palette="Reds")
 ```
+![Alt text](relative/path/to/1.png)
 
 </br>
 
