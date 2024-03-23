@@ -170,6 +170,7 @@ user_distance_sleep_type <- merge(x=activity_type_distance, y=sleep_type, by="Id
 
 ## Graphical Represntaion Of The Key Findings
 </br>
+
 **Finding 1**
 
 Our first bar graph shows users sleep type based on how much calories they burned where we can see users who are burning more calories are sleeping better. But the number of bad sleepers and over sleepers are still there below the 75th percentile.
