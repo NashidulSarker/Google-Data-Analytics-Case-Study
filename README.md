@@ -1,10 +1,4 @@
-# Google Data Analytics Case Study
-
-
-
-</br>
-
-## Project Overview
+# Project Overview
 </br>
 In this case study, I play the position of a junior data analyst for Bellabeat, a high-tech manufacturer of women's health         products. The stakeholders of the company  believes that analyzing non-Bellabeat smart device fitness data could help unlock new   growth opportunities for the company.  I've been entrusted with focusing on one of Bellabeat's products and analyzing              non-Bellabeat smart device data to gain insight into how consumers use their non-Bellabeat smart devices and how these trends can  be applied to Bellabeat customers. I'll be using data from FitBit Fitness Tracker, a public dataset made available by Mobius in    Kaggle. I am going to provide the findings of my research to the Bellabeat executive team, along with my high-level                recommendations that will them with their marketing efforts.
 </br>
